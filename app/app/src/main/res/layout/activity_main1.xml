@@ -1,0 +1,46 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentTop="true"
+        android:text="Community"
+        android:textColor="#FAFAFA"
+        android:textColorHighlight="@color/white"
+        android:textSize="40sp" />
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="150dp"
+        android:layout_marginBottom="165dp"
+        android:src="@drawable/community"
+        android:layout_centerHorizontal="true"/>
+
+
+    <Button
+
+        android:id="@+id/btnNavigate"
+        android:layout_width="400dp"
+        android:layout_height="80dp"
+
+      android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="@color/white"
+        android:padding="18dp"
+        android:text="Get started"
+        android:textColor="#161616"
+        android:textSize="24sp" />
+</RelativeLayout>
