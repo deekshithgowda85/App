@@ -61,11 +61,18 @@ cd App
 
 ---
 
-## 📸 Screenshots (To Be Added)
+## 📸 Screenshots
 
-| Splash Screen | Login | Bottom Navigation |
-|---------------|-------|-------------------|
-| *(Image 1)*   | *(Image 2)* | *(Image 3)* |
+| Splash Screen         | Login Screen          |
+|----------------------|-----------------------|
+| ![Splash](https://raw.githubusercontent.com/deekshithgowda85/App/main/image1.png) | ![Login](https://raw.githubusercontent.com/deekshithgowda85/App/main/image2.png) |
+
+| Home Navigation       | Profile Page          |
+|----------------------|-----------------------|
+| ![Home](https://raw.githubusercontent.com/deekshithgowda85/App/main/image3.png) | ![Profile](https://raw.githubusercontent.com/deekshithgowda85/App/main/image4.png) |
+
+> ℹ️ **To use these image links**:
+> Upload your screenshots to a folder like `assets/` in your GitHub repo.
 
 ---
 
