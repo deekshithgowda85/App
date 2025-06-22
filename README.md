@@ -65,11 +65,11 @@ cd App
 
 | Splash Screen         | Login Screen          |
 |----------------------|-----------------------|
-| ![Splash](https://raw.githubusercontent.com/deekshithgowda85/App/main/image1.png) | ![Login](https://raw.githubusercontent.com/deekshithgowda85/App/main/image2.png) |
+| ![Splash](https://raw.githubusercontent.com/deekshithgowda85/App/main/image1.jpg) | ![Login](https://raw.githubusercontent.com/deekshithgowda85/App/main/image2.jpg) |
 
 | Home Navigation       | Profile Page          |
 |----------------------|-----------------------|
-| ![Home](https://raw.githubusercontent.com/deekshithgowda85/App/main/image3.png) | ![Profile](https://raw.githubusercontent.com/deekshithgowda85/App/main/image4.png) |
+| ![Home](https://raw.githubusercontent.com/deekshithgowda85/App/main/image3.jpg) | ![Profile](https://raw.githubusercontent.com/deekshithgowda85/App/main/image4.jpg) |
 
 > ℹ️ **To use these image links**:
 > Upload your screenshots to a folder like `assets/` in your GitHub repo.
